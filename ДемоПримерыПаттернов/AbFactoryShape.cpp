@@ -1,6 +1,6 @@
 #include <iostream>
-#define SIMPLE
 
+#define SIMPLE
 
 using namespace std;
 
