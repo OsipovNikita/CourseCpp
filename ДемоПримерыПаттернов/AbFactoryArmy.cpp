@@ -1,8 +1,9 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
-#include <vector>
+
 
 // Абстрактные базовые классы всех возможных видов воинов
 class Infantryman
