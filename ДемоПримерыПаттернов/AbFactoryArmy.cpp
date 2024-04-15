@@ -3,7 +3,10 @@
 
 using namespace std;
 
-
+class Ner
+{
+	
+};
 
 // Абстрактные базовые классы всех возможных видов воинов
 class Infantryman
